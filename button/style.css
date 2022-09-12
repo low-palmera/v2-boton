@@ -1,0 +1,29 @@
+button.search{
+    width: 200px;
+    height: 40px;
+    border-radius: 50px;
+    border: solid 2px rgb(40, 169, 139);
+    font-weight: bold;
+    color: rgb(40, 169, 139);
+}
+button.plus{
+    width: 40px;
+    height: 40px;
+    border-radius: 50px;
+    border: solid 2px rgb(40, 169, 139);
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    background: rgb(40, 169, 139);
+}
+button.account{
+        width: 200px;
+        height: 40px;
+        border: solid 2px rgb(0, 0, 0);
+        color: rgb(255, 255, 255);
+        background: rgb(40, 44, 169);
+        font-size: 17px;
+        box-shadow: 5px 5px rgb(0, 0, 0);
+    }
+div{
+    margin: 20px;
+}
